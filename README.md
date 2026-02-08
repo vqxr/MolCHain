@@ -12,7 +12,22 @@ MolChain combines **AI agent swarms** with **Flare blockchain** to create a dece
 - Consensus results are stored immutably on Flare blockchain
 - Researchers worldwide can contribute and validate
 
-### 🏗️ Architecture
+## 🚀 Built on Flare
+
+### Network
+- **Network:** Flare Coston2 Testnet
+- **Chain ID:** 114
+- **RPC URL:** `https://coston2-api.flare.network/ext/bc/C/rpc`
+- **Explorer:** https://coston2-explorer.flare.network
+
+### Flare Protocol Integrations
+- **FTSOv2 (Flare Time Series Oracle):** Real-time price feeds for FLR/USD, BTC/USD, and ETH/USD
+- **Contract Registry:** On-chain contract discovery via Flare's ContractRegistry
+- **Blockchain Transactions:** Molecule registration and AI consensus scores stored immutably on Flare
+
+### Demo
+
+- **Video Walkthrough:** [Link to 2-minute demo video]
 
 
 
