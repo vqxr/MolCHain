@@ -49,13 +49,4 @@ MolChain combines **AI agent swarms** with **Flare blockchain** to create a dece
 - ✅ **AI Agent Swarm**: Core hackathon theme  
 - ✅ **Complete Stack**: Full-stack implementation
 - ✅ **Real-world Impact**: Solves actual scientific problem
-- ✅ **Demo Ready**: Working prototype with polished UI
-
-### 👥 Team
-- [Your Name] - Full-stack development, blockchain integration
-- [Teammates if any]
-
-### 🔗 Links
-- Live Demo: [if deployed]
-- GitHub: [your repo]
-- Video Demo: [record a 2-min walkthrough]
+- ✅ **Demo Ready**: Semi-Working prototype with polished UI
